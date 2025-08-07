@@ -1,5 +1,4 @@
 # IoT-Gate
-
 ______________________________________________________________________________________________________________________________________
 Remotely control and monitor your gate with the power of the Internet of Things (IoT).
 
